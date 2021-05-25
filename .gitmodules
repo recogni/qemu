@@ -58,3 +58,6 @@
 [submodule "roms/qboot"]
 	path = roms/qboot
 	url = https://github.com/bonzini/qboot
+[submodule "hw/recogni"]
+	path = hw/recogni
+	url = ../qemu-overlay

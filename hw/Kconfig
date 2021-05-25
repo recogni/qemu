@@ -80,3 +80,5 @@ config XILINX_AXI
 config XLNX_ZYNQMP
     bool
     select REGISTER
+
+source recogni/Kconfig
